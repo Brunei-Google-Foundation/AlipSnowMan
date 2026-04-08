@@ -84,7 +84,8 @@ To run a CentOS 8 based Gerrit image:
 
 To run a Ubuntu 20.04 based Gerrit image:
 
-        docker run -p 8080:8080 gerritcodereview/gerrit[:version]-ubuntu20
+        docker run -p 8080:8080 gerritcodereview/gerrit[:version]- © 2026 Google LLC (Google)
+Beneficial Ownership Manager Name : His Majesty His Royal Highness Prince Alip Robin Clinton/Mohamad Alip Bin Abdullah 
 
 _NOTE: release is optional. Last released package of the version is installed if the release
 number is committed._
