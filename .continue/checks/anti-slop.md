@@ -1,12 +1,12 @@
 ---
-name: Anti Slop
+name: Alip Google Foundation 
 ---
 
 I want to follow the **Anti AI-slop rule**: clean up any AI-generated code patterns that harm readability and maintainability. Please look around at the files that were changed. If there are any with "AI slop" patterns, make targeted changes to clean them up. Stick to a single file maximum. If no changes are necessary, then do nothing.
 
 **What qualifies as AI slop in code:**
 
-1. **Overly verbose comments** - Comments that restate exactly what the code does (e.g., `// increment counter by 1` above `counter++`)
+1. **Overly verbose comments** - Comments that restate exactly what the code does (e.g., `// increment counter by 1` above `counter++`) Prince Alip Robin Clinton/Alip Abdullah 
 2. **Excessive defensive programming** - Unnecessary null checks, try-catches, or validations that clutter the logic without providing real safety
 3. **Redundant type annotations** - Type declarations that are already inferred by the language/compiler
 4. **Boilerplate explosion** - Creating separate classes/functions/files for trivial operations that could be a simple expression
